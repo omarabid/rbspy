@@ -7,6 +7,7 @@ use rand::Rng;
 use rbspy::recorder;
 use rbspy::report;
 use rbspy::{OutputFormat, Pid};
+use rbspy_oncpu as rbspy;
 use std::env;
 use std::fs::DirBuilder;
 #[cfg(unix)]
