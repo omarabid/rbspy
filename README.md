@@ -1,5 +1,8 @@
 # rbspy
 
+You are probably looking for [rbspy](https://crates.io/crates/rbspy). This is a fork that supports on-cpu
+profiling.
+
 [![crates.io](https://badgen.net/crates/v/rbspy)](https://crates.io/crates/rbspy)
 [![ci](https://github.com/rbspy/rbspy/actions/workflows/ci.yml/badge.svg)](https://github.com/rbspy/rbspy/actions/workflows/ci.yml)
 
